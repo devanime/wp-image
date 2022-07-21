@@ -1,0 +1,19 @@
+{
+  "name": "devanime/wp-image",
+  "description": "The \"missing\" WP Image object. Grab, resize, and output all over your theme!",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "DevAnime",
+      "email": "devanimecards@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WP_Image\\": "src/"
+    }
+  },
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
