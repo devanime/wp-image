@@ -1,6 +1,7 @@
 {
   "name": "devanime/wp-image",
   "description": "The \"missing\" Wordpress Image object, used on all web projects.",
+  "version": "1.0.0",
   "type": "wordpress-plugin",
   "authors": [
     {
